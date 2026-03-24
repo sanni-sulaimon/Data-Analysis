@@ -19,9 +19,12 @@ Tools Used:
 • Power Query – Data Cleaning and Transformation.
 
 Dashboard Overview The dashboard provides visual insights into the following Key Metrics Overview:
-✅Highlight of Overrall Human Capital, Active Human Capital and Attrition. 
+✅Highlight of Overrall Human Capital, Active Human Capital and Attrition.
+
 ✅Custom Combination of clustered and line chart to measure Human Capital Growth.
+
 ✅Pie Chart to highlight Gender Diversity.
+
 ✅Visualize Job level using 3D-Stacked Column.
 ✅Doughnut Chart to highlight Department by HC%.
 ✅ Human Capital Report to Manager using funnel chart to analyse.
