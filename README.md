@@ -1,13 +1,13 @@
-HR ANALYTICS TEAM DASHBOARD
+### HR ANALYTICS TEAM DASHBOARD
 
-Objectives
+### **Objectives**
 
 The primary goal of this dashboard is to provide a comprehensive overview of workforce dynamics to help HR leadership manage headcount, monitor retention, and track diversity. Specifically, it aims to:
 Monitor organizational growth and stability over the years.
 Analyze the distribution of employees across departments and job levels.
 Track attrition and internal transfers. 
  
-Skills Applied:
+#### **Skills Applied:** 😃
 
 • Data Cleaning & Transformation (Power Query)
 
