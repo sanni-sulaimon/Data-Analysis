@@ -1,21 +1,34 @@
 HR ANALYTICS TEAM DASHBOARD
 
 Objectives
+
 The primary goal of this dashboard is to provide a comprehensive overview of workforce dynamics to help HR leadership manage headcount, monitor retention, and track diversity. Specifically, it aims to:
 Monitor organizational growth and stability over the years.
 Analyze the distribution of employees across departments and job levels.
 Track attrition and internal transfers. 
  
 Skills Applied:
+
 • Data Cleaning & Transformation (Power Query)
+
 • Pivot Table and Pivot Chart Analysis
+
 • Dynamic Title Creation
+
 • Reporting Manager Filtering
+
 • Custom Dashboard Layout & Design
 
-• Dynamic Title Creation • Reporting Manager Filtering • Custom Dashboard Layout & Design
-Tools Used: 
+• Dynamic Title Creation 
+
+• Reporting Manager Filtering 
+
+• Custom Dashboard Layout & Design
+
+*Tools Used:
+
 • Ms Excel - Visualisation, Pivot table, and Data Report. 
+
 • Power Query – Data Cleaning and Transformation.
 
 Dashboard Overview The dashboard provides visual insights into the following Key Metrics Overview:
@@ -49,6 +62,7 @@ Insights
 ✅Reporting Load: Under HC Reporting, Ryan Simmons manages 42 people nearly double the next highest manager. This is a very high span of control and could lead to burnout or decreased management quality.
 
 Recommendation
+
 ✅Conduct a Retention Exit Interviews specifically for the 1-2 year cohort to understand why retention drops after the first year. Addressing the high rate of attrition immediately.
 
 ✅Management Review Ryan Simmons reporting line. A manager with 42 direct reports is likely overextended. Consider promoting a team lead from within his group to balance the load.
