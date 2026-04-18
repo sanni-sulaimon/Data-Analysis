@@ -31,7 +31,9 @@ Track attrition and internal transfers.
 
 • Power Query – Data Cleaning and Transformation.
 
-Dashboard Overview The dashboard provides visual insights into the following Key Metrics Overview:
+#### Dashboard Overview 
+
+The dashboard provides visual insights into the following Key Metrics Overview:
 
 ✅Highlight of Overrall Human Capital, Active Human Capital and Attrition.
 
