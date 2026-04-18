@@ -7,7 +7,7 @@ Monitor organizational growth and stability over the years.
 Analyze the distribution of employees across departments and job levels.
 Track attrition and internal transfers. 
  
-#### **Skills Applied:** 😃
+#### **Skills Applied:** 
 
 • Data Cleaning & Transformation (Power Query)
 
