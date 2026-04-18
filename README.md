@@ -25,7 +25,7 @@ Track attrition and internal transfers.
 
 • Custom Dashboard Layout & Design
 
-*Tools Used:
+#### Tools Used:
 
 • Ms Excel - Visualisation, Pivot table, and Data Report. 
 
@@ -51,7 +51,7 @@ Dashboard Overview The dashboard provides visual insights into the following Key
 
 ✅ Reporting Manager and Department Filtering.
 
-Insights
+#### Insights
 
 ✅High Attrition Rate: An attrition rate of 27% is notably high (industry averages typically hover around 12 to 15%). This suggests a significant portion of the workforce is leaving.
 
@@ -61,7 +61,7 @@ Insights
 
 ✅Reporting Load: Under HC Reporting, Ryan Simmons manages 42 people nearly double the next highest manager. This is a very high span of control and could lead to burnout or decreased management quality.
 
-Recommendation
+#### Recommendation
 
 ✅Conduct a Retention Exit Interviews specifically for the 1-2 year cohort to understand why retention drops after the first year. Addressing the high rate of attrition immediately.
 
