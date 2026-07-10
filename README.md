@@ -1,75 +1,121 @@
 ### HR ANALYTICS TEAM DASHBOARD
 
+An Organisation with 171 headcount of workforce 
+
+
+
+### *Business Problem*
+The organization lacked visibility into workforce stability. With 171 total headcount but only 118 active, and 47 exits recorded, HR leadership had no consolidated view of where attrition was concentrated, how departments compared in size and turnover, or how tenure and diversity trends were evolving making workforce planning and retention decisions largely reactive.
+
+
+
+
 ### **Objectives**
 
 The primary goal of this dashboard is to provide a comprehensive overview of workforce dynamics to help HR leadership manage headcount, monitor retention, and track diversity. Specifically, it aims to:
-Monitor organizational growth and stability over the years.
-Analyze the distribution of employees across departments and job levels.
-Track attrition and internal transfers. 
+
+•       Consolidate headcount, attrition, and transfer data into a single interactive view
+
+•       Track headcount growth trends from 2020–2025 to spot turning points
+
+•       Break down workforce composition by department, job level, employment type, and gender
+
+•       Surface tenure and stability patterns to flag retention risk
+
+•       Enable filtering by department and reporting manager for drill-down analysis
+
+
  
 #### **Skills Applied:** 
 
-• Data Cleaning & Transformation (Power Query)
+•      Data Cleaning & Transformation (Power Query)
 
-• Pivot Table and Pivot Chart Analysis
+•      Pivot Table and Pivot Chart Analysis
 
-• Dynamic Title Creation
+•      DAX measures (attrition %, HC growth, stability %)
 
-• Reporting Manager Filtering
+•      Reporting Manager Filtering
 
-• Custom Dashboard Layout & Design
+•      Custom Dashboard Layout & Design
 
-• Dynamic Title Creation 
+•      KPI card design and interactive filtering (slicers)
 
-• Reporting Manager Filtering 
 
-• Custom Dashboard Layout & Design
 
 #### Tools Used:
 
-• Ms Excel - Visualisation, Pivot table, and Data Report. 
+•       Microsoft Excel — core dashboard build
 
-• Power Query – Data Cleaning and Transformation.
+•       Power Query — data shaping
 
-#### Dashboard Overview 
+•       DAX — calculated metrics
 
-The dashboard provides visual insights into the following Key Metrics Overview:
+•       Excel — source data staging
 
-✅Highlight of Overrall Human Capital, Active Human Capital and Attrition.
+### Key Metrics Overview
 
-✅Custom Combination of clustered and line chart to measure Human Capital Growth.
+|Metric	|Value |
+|-------|-----|
+|Overall Headcount |	171 |
+|Active Headcount	| 118 |
+|Attrition (Headcount) |	47 |
+|Attrition % |	27% |
+|Transfers |	6 |
+|Male / Female Split	| 62% / 38% |
+|Permanent / Contract Split	| 89% / 11% |
 
-✅Pie Chart to highlight Gender Diversity.
 
-✅Visualize Job level using 3D-Stacked Column.
 
-✅Doughnut Chart to highlight Department by HC%.
+### Key Metrics Summary
 
-✅ Human Capital Report to Manager using funnel chart to analyse.
+•       Headcount growth: steady climb from 2020 to a peak of 118 active employees by 2025, despite ongoing attrition each year
 
-✅ Clustered Column Chart: Types of employee(contract & pamanent Staff).
+•       Department mix: Sales (23%) and Legal (21%) are the largest departments; Finance and HR are smallest (8% each)
 
-✅ Stability: Duration of staff in the company.
+•       Job levels: Professionals (36%) and Trainees (35%) dominate; Management is a thin 18%, Contract 11%
 
-✅ Reporting Manager and Department Filtering.
+•       Tenure: nearly two-thirds of staff (69) have 2+ years tenure, but 9 employees are under 1 year — an early-attrition watch zone
 
-#### Insights
+•       Manager span: Ryan Simmons oversees the largest reporting line (42 employees), more than triple the next-largest (Janelle Wiley, 26)
 
-✅High Attrition Rate: An attrition rate of 27% is notably high (industry averages typically hover around 12 to 15%). This suggests a significant portion of the workforce is leaving.
 
-✅Gender Imbalance: There is a clear 24 point gap between Male and Female representation, indicating room for improvement in gender diversity initiatives.
 
-✅Stability Trends: The Stability chart shows a spike at the 1+ year mark (35%),but a sharp drop off for employees staying 2 years or more. This suggests that while you are good at initial retention, you may be losing people after their first year.
+### Headcount by Reporting Manager
 
-✅Reporting Load: Under HC Reporting, Ryan Simmons manages 42 people nearly double the next highest manager. This is a very high span of control and could lead to burnout or decreased management quality.
+| Reporting Manager |	Headcount |
+|-------------------|-----------|
+|Ryan Simmons |	42 |
+|Janelle Wiley |	26 |
+|Roberta Moyer	 | 18 |
+|Alejandra Mack |	12|
+|Darryl Leon	| 9 |
+|Jefferson Perry |	7 |
+|Geneva Hardy	| 4 |
 
-#### Recommendation
 
-✅Conduct a Retention Exit Interviews specifically for the 1-2 year cohort to understand why retention drops after the first year. Addressing the high rate of attrition immediately.
 
-✅Management Review Ryan Simmons reporting line. A manager with 42 direct reports is likely overextended. Consider promoting a team lead from within his group to balance the load.
+#### Key Insights
 
-✅Diversity Implement targeted recruitment and mentorship programs for female talent to bridge the 38% to 50% gap, especially at the Professional and Management levels.
+•   27% attrition is high relative to a workforce this size roughly 1 in 4 employees left, which warrants root-cause investigation
 
-✅Growth Plan With HC Growth trending upwards since 2020, To ensure that the Trainee level (35%) has a clear career path into Professional roles to prevent them from becoming part of the attrition statistics.
+•   Attrition has consistently outpaced transfers every year, meaning internal mobility isn't absorbing turnover
 
+•    Sales and Legal, the two largest departments, are likely the biggest contributors to raw attrition volume simply by headcount share
+
+•   The 18% management ratio against 35% trainees suggests a wide span of control and potential leadership bandwidth strain
+
+•   Ryan Simmons' 42 person span is unusually large next to peers, which may itself be a retention risk factor
+
+
+
+### Strategic Recommendations
+
+•     Conduct exit-interview analysis focused on Sales and Legal to identify department-specific drivers
+
+•     Rebalance Ryan Simmons' reporting line consider promoting a senior professional into a management role to reduce span of control
+
+•     Build a structured onboarding/mentorship program targeting the <1year cohort to reduce early attrition
+
+•     Increase internal transfer visibility as a retention lever, since transfers are currently underused relative to attrition
+
+•     Set a target attrition ceiling (e.g., 15–18%) and track monthly against it going forward
